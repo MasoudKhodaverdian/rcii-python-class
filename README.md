@@ -1,5 +1,7 @@
 # RCII Python Class
 
+![class logo](/Logo.png)
+
 This repository contains learning resources for a Python class held at RCII Company. The class is designed for company employees to enhance their programming skills in Python.
 
 ## Class Resources
